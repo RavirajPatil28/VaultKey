@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VaultKey.Api/VaultKey.Api.csproj" />
+  <Project Path="VaultKey.Business/VaultKey.Business.csproj" />
+  <Project Path="VaultKey.Data/VaultKey.Data.csproj" />
+</Solution>
